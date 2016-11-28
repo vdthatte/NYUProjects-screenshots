@@ -1,6 +1,6 @@
 # NYUProjects-screenshots
 
-![alt tag](https://raw.githubusercontent.com/vdthatte/NYUProjects-screenshots/master/launch.png)
+![alt tag](https://raw.githubusercontent.com/vdthatte/NYUProjects-screenshots/master/launch.png) <br>
 ![alt tag](https://raw.githubusercontent.com/vdthatte/NYUProjects-screenshots/master/feed.png)
 ![alt tag](https://raw.githubusercontent.com/vdthatte/NYUProjects-screenshots/master/project.png)
 ![alt tag](https://raw.githubusercontent.com/vdthatte/NYUProjects-screenshots/master/profile.png)
